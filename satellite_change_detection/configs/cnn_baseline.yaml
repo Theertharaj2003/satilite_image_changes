@@ -1,0 +1,5 @@
+model:
+  type: siamese_cnn
+  channels: [32, 64, 128, 256]
+output:
+  root: ./experiments/siamese_cnn

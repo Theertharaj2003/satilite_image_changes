@@ -1,0 +1,5 @@
+# Convenience copy of configs/config.yaml. Keep configs/config.yaml as the source of truth.
+project:
+  name: satellite_change_detection_temporal_transformer
+  seed: 42
+  deterministic: true

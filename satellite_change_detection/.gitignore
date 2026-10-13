@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+/datasets/
+checkpoints/*.pt
+experiments/*/*.pt
+logs/*
+results/*.png
+results/*.jpg
+predictions/*
+.DS_Store
+Thumbs.db

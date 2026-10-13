@@ -1,0 +1,8 @@
+model:
+  type: temporal_transformer
+  channels: [32, 64, 128, 256]
+  heads: 8
+  layers: 2
+  dropout: 0.10
+output:
+  root: ./experiments/transformer_baseline
